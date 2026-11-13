@@ -1,0 +1,12 @@
+node_modules/
+target/
+*.class
+*.log
+.idea/
+.vscode/
+dist/
+.DS_Store
+*.iml
+.mvn/
+mvnw
+mvnw.cmd
